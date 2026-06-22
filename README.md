@@ -16,8 +16,6 @@
 
 ![72eab505ade47f3bf345158ba221384d.jpg](72eab505ade47f3bf345158ba221384d.jpg)
 
-![致谢.png](致谢.png)
-
 ![4b7abb390aaf1080c2ffce44e87bdbbc.jpg](4b7abb390aaf1080c2ffce44e87bdbbc.jpg)
 
 ![901292c77856eb009c687f36f3f4288d.jpg](901292c77856eb009c687f36f3f4288d.jpg)
@@ -51,4 +49,6 @@
 ![5930f23e1b8e81405c880320626dd776.jpg](5930f23e1b8e81405c880320626dd776.jpg)
 
 ![765f7fad988bd1d39b723c4d974d900c.jpg](765f7fad988bd1d39b723c4d974d900c.jpg)
+
+![致谢.png](致谢.png)
 
