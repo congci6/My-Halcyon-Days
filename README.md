@@ -16,6 +16,8 @@
 
 ![72eab505ade47f3bf345158ba221384d.jpg](72eab505ade47f3bf345158ba221384d.jpg)
 
+![致谢.png](致谢.png)
+
 ![4b7abb390aaf1080c2ffce44e87bdbbc.jpg](4b7abb390aaf1080c2ffce44e87bdbbc.jpg)
 
 ![901292c77856eb009c687f36f3f4288d.jpg](901292c77856eb009c687f36f3f4288d.jpg)
